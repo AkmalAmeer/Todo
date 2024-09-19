@@ -1,7 +1,7 @@
 # Todo
 
 
-Nodejs is used to execute crud operations for all CLI applications
+Nodejs is used to execute crud operations Todo CLI applications
 
 
 Developed with NodeJS
